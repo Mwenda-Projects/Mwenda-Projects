@@ -8,8 +8,8 @@ I build progressive web applications and custom software platforms at the inters
 ### 🚀 Featured Projects
 
 - **[StructaViz](https://structaviz.mwendahub.space)** — Progressive Web App (PWA) and civil engineering calculation suite for preliminary structural analysis, continuous span modeling, and live bending/shear diagrams (KS 02-104 & BS 8110 standards).
-- **The Mwenda Chronicles & Store** — Custom engineering publishing platform and automated digital store featuring M-Pesa STK Push checkout and secure Supabase backend.
-- **Oflix** — Autonomous AI-powered website builder for local small business digitization with automated M-Pesa subscription payments.
+- **[The Mwenda Chronicles & Store](https://mwendahub.space)** — Custom engineering publishing platform and automated digital store featuring M-Pesa STK Push checkout and secure Supabase backend.
+- **[OfliX](https://oflix.space/)** — Autonomous AI-powered website builder for local small business digitization with automated M-Pesa subscription payments.
 
 ---
 
