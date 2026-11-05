@@ -5,7 +5,7 @@ I build progressive web applications and custom software platforms at the inters
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 - **[StructaViz](https://structaviz.mwendahub.space)** — Progressive Web App (PWA) and civil engineering calculation suite for preliminary structural analysis, continuous span modeling, and live bending/shear diagrams (KS 02-104 & BS 8110 standards).
 - **[The Mwenda Chronicles & Store](https://mwendahub.space)** — Custom engineering publishing platform and automated digital store featuring M-Pesa STK Push checkout and secure Supabase backend.
@@ -13,7 +13,7 @@ I build progressive web applications and custom software platforms at the inters
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 - **Frontend & Web:** React, TypeScript, Next.js, Tailwind CSS, Progressive Web Apps (PWA)
 - **Backend & Database:** Supabase (PostgreSQL), Vercel Serverless Functions, REST APIs
@@ -22,6 +22,6 @@ I build progressive web applications and custom software platforms at the inters
 
 ---
 
-### 🌐 Connect With Me
+###  Connect With Me
 - Website: [mwendahub.space](https://www.mwendahub.space)
 - Professional Profile: [LinkedIn](https://linkedin.com/in/mwendahub)
